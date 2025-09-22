@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">my name is Matthew and I'm an aspiring Software Engineer attending Northeastern University. <br><br>🐞 creating bugs since... my sophomore year of high school<br>📚 currently working... on FlavorFlow<br>🎲 fun fact... i work for a harvard business school startup</p>
+<p align="left">my name is Matthew and I'm an aspiring Software Engineer attending Northeastern University. <br><br>🐞 creating bugs since... my sophomore year of high school<br>📚 currently working... on FlavorFlow<br>🎲 fun fact... i am currently working for a startup!</p>
 
 ###
 
