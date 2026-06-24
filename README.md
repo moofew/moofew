@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">my name is Matthew and I'm an aspiring Software Engineer attending Northeastern University. <br><br>🐞 creating bugs since... sophomore year of high school<br>📚 currently working... on Noble People's Cultural Calendar<br>🎲 fun fact... my highest wpm is 218</p>
+<p align="left">my name is Matthew and I'm an aspiring software engineer attending Northeastern University. <br><br>🐞 creating bugs since... sophomore year of high school<br>📚 currently working... on Noble People's cultural calendar<br>🎲 fun fact... my highest wpm is 218</p>
 
 ###
 
